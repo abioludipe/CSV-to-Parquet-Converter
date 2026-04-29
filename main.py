@@ -38,7 +38,4 @@ if __name__ == "__main__":
 
 
 
-"""
-If you want to skip pandas entirely, PyArrow has its own CSV reader (pyarrow.csv.read_csv) and can write Parquet directly via pyarrow.parquet.write_table(). 
-This is faster and uses less memory for straightforward conversions.
-"""
+
