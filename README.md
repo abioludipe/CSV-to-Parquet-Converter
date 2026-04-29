@@ -1,4 +1,4 @@
-# CSV Convert
+# CSV-to-Parquet Converter
 
 ### Description
 this tool isa Command line tool that takes the filepath to a csv file and converts it to parquet
